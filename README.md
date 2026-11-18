@@ -14,10 +14,15 @@ The structure is ordered chronologically, based on the progress of the game. Sta
 
 ```
 root/
-|- 001-tutorial-projects/             # Solutions to the "tutorial projects" challenges
-|  |- 001-[project].lua               # Code file containing solution(s)
-|  |- 001-[project]_size.png          # Image of the result (optimized for size)
-|  |- 001-[project]_efficiency.png    # Image of the result (optimized for efficiency)
+|- 001-tutorial-projects/       # Solutions to the "tutorial projects" challenges
+|  |- 001-lorem.lua             # Code file containing solution(s) to challenge 1
+|  |- 001-lorem_size.png        # Image of the result (optimized for size)
+|  |- 001-lorem_efficiency.png  # Image of the result (optimized for efficiency)
+|  |
+|  |- 002-ipsum.lua             # Code file containing solution to challenge 2
+|  |- 002-ipsum.png             # Image of the result (optimized for both)
+|  |- ...
+|  ...
 |- README.md
 ```
 
